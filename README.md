@@ -1,2 +1,2 @@
 # dsa-in-python
-Data Structure and Algorithms in Python - Interview Focused!
+Data Structure and Algorithms in Python - Prep Notes
